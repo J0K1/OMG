@@ -12,9 +12,9 @@ Unity Projects
 Жанр: Пиксельный рогалик (вид сверху)
 Описание: Попытка создать игру в духе The Binding of Isaac и Enter the Gungeon.
 
-Видео геймплея: [[Top-down](https://drive.google.com/file/d/1sOsuNSZ9cSevKgRg9Wqxf-hW_ymqx2_p/view?usp=drive_link)]
+Видео геймплея: [[Top-down](https://drive.google.com/file/d/1isMrIxwj2D6g9BnGypwnWUdNOL-VkbmC/view?usp=drive_link)]
 
 3. Low Poly 3D Dungeon 
 Жанр: 3D-рогалик с низкополигональной графикой
 
-Видео геймплея: [[Low Poly](https://drive.google.com/file/d/1isMrIxwj2D6g9BnGypwnWUdNOL-VkbmC/view?usp=drive_link)]
+Видео геймплея: [[Low Poly](https://drive.google.com/file/d/1sOsuNSZ9cSevKgRg9Wqxf-hW_ymqx2_p/view?usp=drive_link)]
