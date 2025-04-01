@@ -4,9 +4,9 @@ Unity Projects
 
 1. Color Gate
 Жанр: Головоломка с изменением перспективы
-Описание: Игра, где игрок изменяет цвета для решения задач. Вдохновлялся играми типа Monument Valley.
+Описание: Игра, где игрок изменяет цвета для решения простых головоломок. Вдохновлялся играми типа Monument Valley.
 
-Видео геймплея: [[Color Gate]()]
+Видео геймплея: [[Color Gate](https://drive.google.com/file/d/1ZHPlup3oMLS24liipwuT_Dj1C-IjX7Iz/view?usp=drive_link)]
 
 2. Top-down Roguelike
 Жанр: Пиксельный рогалик (вид сверху)
@@ -16,6 +16,5 @@ Unity Projects
 
 3. Low Poly 3D Dungeon 
 Жанр: 3D-рогалик с низкополигональной графикой
-Описание: Эксперимент с рандомной генерацией подземелий.
 
-Видео геймплея: [[Low Poly]()]
+Видео геймплея: [[Low Poly](https://drive.google.com/file/d/1isMrIxwj2D6g9BnGypwnWUdNOL-VkbmC/view?usp=drive_link)]
